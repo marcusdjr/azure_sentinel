@@ -1,4 +1,6 @@
 
+![Project Diagram](https://user-images.githubusercontent.com/31329300/209582698-22c4cd25-0cf9-4081-b476-4a285fff695d.png)
+
 # Azure Sentinel (SIEM) Project
 
 • Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data.
