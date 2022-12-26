@@ -1,5 +1,4 @@
-
-![Azure Sentinel Project Diagram](https://user-images.githubusercontent.com/31329300/209582874-8b83579a-3183-46e2-8afa-aae114391fad.png)
+![Azure Sentinel Project Diagram](https://user-images.githubusercontent.com/31329300/209582975-542a7422-bea5-454b-97e9-d096bc4a0d00.png)
 
 # Azure Sentinel (SIEM) Project
 
